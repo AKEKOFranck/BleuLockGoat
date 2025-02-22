@@ -1,6 +1,5 @@
 * {
     margin: 0;
-    top: 0;
     padding: 0;
     text-decoration: none;
     box-sizing: border-box;
@@ -463,10 +462,7 @@ footer{
 @media (max-width: 700px) {
    *{
     margin: 0;
-    top: 0;
     padding: 0;
-    left: 0;
-    right: 0;
     text-decoration: none;
     box-sizing: border-box;
    }
@@ -678,14 +674,10 @@ footer{
 }
 
 
-@media (min-width: 700px) and (max-width:1300px) {
+@media (min-width: 700px) and (max-width:1200px) {
     *{
      margin: 0;
-     top: 0;
      padding: 0;
-     left: 0;
-     right: 0;
-     bottom: 0;
      text-decoration: none;
      box-sizing: border-box;
     }
